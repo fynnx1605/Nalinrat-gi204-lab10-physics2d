@@ -49,6 +49,8 @@ public class PlayerMovement : MonoBehaviour
         {
             isJumping = true;
         }
+        
+        
     }
 }
 
